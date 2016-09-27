@@ -10,7 +10,7 @@ include "header.php";
 <div id="content">
   <?php
   if (isset($_POST['submit'])) {
-    $SendTo = "info@environmentalpartnershipsinc.com";
+    $SendTo = "envpartnerships@gmail.com";
     $Subject = "Contact From Website";
     $From = "From: Contact Form <contactform@environmentalpartnershipsinc.com>\r\n";
     $From .= "Reply-To: " . $_POST['email'] . "\r\n";
