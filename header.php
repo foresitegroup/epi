@@ -17,7 +17,7 @@ function email($address, $name="") {
   
   <link rel="shortcut icon" href="images/favicon.ico">
   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-  <link href='http://fonts.googleapis.com/css?family=Asap:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Asap:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="inc/epi2012.css" type="text/css" media="screen,print">
   
   <script type="text/javascript" src="inc/jquery-1.5.1.js"></script>
