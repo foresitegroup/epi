@@ -26,7 +26,7 @@ include "header.php";
     <br>
     
     Call to get a quote<br>
-    (651) 429-3016
+    (763) 784-5500
   </div>
   
   <img src="images/barrel.jpg" alt="" style="float: right;">

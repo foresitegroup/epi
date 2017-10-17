@@ -87,8 +87,8 @@ include "header.php";
 
     <strong>Mailing Address</strong><br>
     Environmental Partnerships, Inc.<br>
-    10041 Flanders Court NE<br>
-    Minneapolis, MN 55449-5933<br>
+    1747 East Highway 36<br>
+    Minneapolis, MN 55109<br>
     <?php email("info@environmentalpartnershipsinc.com"); ?>
   </div>
 

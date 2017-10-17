@@ -11,8 +11,8 @@
   <div style="float: right; margin-left: 26px;">
     <strong>Contact</strong><br>
     Environmental Partnerships, Inc.<br>
-    10041 Flanders Court NE<br>
-    Minneapolis, MN 55449-5933<br>
+    747 East Highway 36<br>
+    Minneapolis, MN 55109<br>
     Phone: 763-784-5500<br>
     Toll Free: 877-SORBENT (767-2368)<br>
     <?php email("info@environmentalpartnershipsinc.com"); ?>
